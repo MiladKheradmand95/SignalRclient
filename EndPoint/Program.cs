@@ -102,7 +102,7 @@ class Program
 
         public string Username { get; set; }
         public string[] Role { get; set; }
-        public string Token { get; set; }  // ✅ We only need this11 nhjhh
+        public string Token { get; set; }  // ✅ We only need this
         public string StoreId { get; set; }
     }
 }
