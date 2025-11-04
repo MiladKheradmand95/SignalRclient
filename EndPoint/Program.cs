@@ -49,7 +49,7 @@ class Program
         {
             // 3. Connect
             await connection.StartAsync();
-            Console.WriteLine("Connected to SignalR Hub.");
+            Console.WriteLine("Client 1 Connected to SignalR Hub.");
         }
         catch (Exception ex)
         {
